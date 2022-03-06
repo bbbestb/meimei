@@ -1,3 +1,5 @@
+# utf-8
+
 def application(environment, start_response):
     """
     The main WSGI Application. Doesn't really do anything
