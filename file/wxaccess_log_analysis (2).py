@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
-'''
-Create on 2015-05-05
-'''
+
 import os
 import unittest
 from selenium import webdriver
