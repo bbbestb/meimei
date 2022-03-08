@@ -15,8 +15,6 @@
     * 输出结果中的每个元素一定是唯一的。
     * 我们可以不考虑输出结果的顺序。
 
-来源：力扣（LeetCode）
-链接：https://leetcode-cn.com/problems/intersection-of-two-arrays
 '''
 
 class Solution(object):
