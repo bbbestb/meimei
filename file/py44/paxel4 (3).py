@@ -1,7 +1,6 @@
 '''
 Created on Oct 14, 2014
-
-@author: Jay <smile665@gmail.com>
+paxel
 '''
 
 import MySQLdb
