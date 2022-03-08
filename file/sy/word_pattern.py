@@ -6,15 +6,7 @@
 
 说明: 你可以假设 pattern 只包含小写字母， str 包含了由单个空格分隔的小写字母。    
 
-示例1:
-输入: pattern = "abba", str = "dog cat cat dog"
-输出: true
 
-示例 2:
-输入:pattern = "abba", str = "dog cat cat fish"
-输出: false
-
-链接：https://leetcode-cn.com/problems/word-pattern
 
 以第2中为例：时间复杂度O(n+m)，空间复杂度O(n+m)
 '''
