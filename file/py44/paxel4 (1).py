@@ -1,14 +1,10 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 # filename: paxel.py
-# FROM: http://fayaa.com/code/view/58/full/
-# Jay modified it a little and save for further potential usage.
 
 '''It is a multi-thread downloading tool
 
     It was developed following axel.
-        Author: volans
-        E-mail: volansw [at] gmail.com
 '''
 
 import sys
