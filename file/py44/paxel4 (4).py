@@ -3,8 +3,6 @@
 '''
 Created on May 31, 2014
 
-@author: Jay <smile665@gmail.com>
-
 @description: just try to use Guppy-PE (useing Heapy) for memory profiling.
 '''
 
