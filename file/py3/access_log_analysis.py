@@ -1,9 +1,4 @@
-'''
-Created on Oct 20, 2013
-@summary: to analyze apache access_log and list the top N IPs of the visitors.
-          for my website, I found many spam visitors.
-@author: Jay <smilejay.com>
-'''
+
 import resource
 import time
 import glob
