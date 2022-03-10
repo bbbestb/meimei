@@ -1,7 +1,6 @@
 #!/usr/bin/python
 # use Fabric to manage all the hosts in perf env.
 # usage: fab -f vps_fabfile.py download_backup
-# author: Jay <smile665@gmail.com>
 
 from fabric.context_managers import cd
 #from fabric.context_managers import settings
