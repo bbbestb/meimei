@@ -1,7 +1,6 @@
 # -*- coding: gb2312 -*-
 
 '''
-Created on 2013-1-27
 
 @module: rename_files
 @note: rename files in a Windows system.
