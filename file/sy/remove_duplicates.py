@@ -15,8 +15,6 @@
     * 1 <= S.length <= 20000
     * S 仅由小写英文字母组成。
 
-来源：力扣（LeetCode）
-链接：https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string
 '''
 
 class Solution(object):
