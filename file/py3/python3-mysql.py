@@ -6,10 +6,10 @@ import mysql.connector
 import sys
 import os
 
-user = 'root'
+user = 'user'
 pwd = '123456'
 host = '127.0.0.1'
-db = 'test'
+db = 'abc'
 
 data_file = 'mysql-test.dat'
 
