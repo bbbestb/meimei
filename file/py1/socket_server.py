@@ -1,7 +1,7 @@
 '''
 Created on 2011-8-14
 
-@author: Jay Ren
+###
 '''
 
 import socket
