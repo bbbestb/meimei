@@ -3,7 +3,8 @@
 '''
 Created on May 31, 2014
 
-@author: Jay <smile665@gmail.com>
+
+## okok
 @description: use memory_profiler module for profiling programs/functions.
 '''
 
