@@ -3,7 +3,6 @@
 '''
 Created on Apr 21, 2014
 
-@author: Jay <yongjie.ren@dianping.com>
 '''
 
 from StringIO import StringIO
