@@ -1,5 +1,7 @@
 ## 梯子
 
+## 警告⚠ 熊猫梯子已跑路，PandaVPN前几年低价吸引不少用户，大家注意选稳定长期的梯子吧~~
+
 |  梯子推荐榜   | 推荐指数 | 官网地址  | 备用网址1 | 备用网址2 |
 |  ----  | ----  | ---- | ---- | ---- |
 | Nord梯子 | ⭐⭐⭐⭐⭐ | [Nord官网地址](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=gitwuxian36&aff_click_id=tizi) | [Nord备用地址1](http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=github&aff_sub=gitwuxian36&aff_sub2=tizi) | - |
