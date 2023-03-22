@@ -23,9 +23,9 @@
 
 |  梯子推荐榜   | 推荐指数 | 官网地址  | 备用网址1 | 备用网址2 |
 |  ----  | ----  | ---- | ---- | ---- |
-| Nord梯子 | ⭐⭐⭐⭐⭐ | [Nord官网地址](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=gitwuxian36&aff_click_id=tizi) | [Nord备用地址1](http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=github&aff_sub=gitwuxian36&aff_sub2=tizi) | - |
-| Express梯子 | ⭐⭐⭐⭐ | [Express官网地址](https://go.expressvpn.com/c/4034381/1608823/16063?subId1=gitwuxian36&subId2=meimei) | -  | - |
-| Ivacy梯子 | ⭐⭐⭐⭐ | [Ivacy中文地址](https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=gitwuxian36&data2=tizi) | [Ivacy官网地址1](https://billing.ivacy.com/page/91814/6f38cc97/CHN/gitwuxian36/tizi) | [Ivacy官网地址2](https://www.ivacy.com/best-vpn-deal-of-2022/?aff=91814&source=Aff&data1=gitwuxian36&data2=tizi) |
+| Nord梯子 | ⭐⭐⭐⭐⭐ | [Nord官网地址](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=2gitwuxian36&aff_click_id=tizi) | [Nord备用地址1](http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=github&aff_sub=2gitwuxian36&aff_sub2=tizi) | - |
+| Express梯子 | ⭐⭐⭐⭐ | [Express官网地址](https://go.expressvpn.com/c/4034381/1608823/16063?subId1=2gitwuxian36&subId2=meimei) | -  | - |
+| Ivacy梯子 | ⭐⭐⭐⭐ | [Ivacy中文地址](https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=2gitwuxian36&data2=tizi) | [Ivacy官网地址1](https://billing.ivacy.com/page/91814/6f38cc97/CHN/gitwuxian36/tizi) | [Ivacy官网地址2](https://www.ivacy.com/best-vpn-deal-of-2022/?aff=91814&source=Aff&data1=2gitwuxian36&data2=tizi) |
 | Westdata梯子 | ⭐⭐⭐ | [Westdata官方网址](https://fuqing.cz/aff.php?aff=2956) | - | - |
 
 ### 请勿用于非法用途，违法自行承担责任，合法进行外贸、资料学习、亲友交流等
@@ -75,7 +75,7 @@
 <span>为了让大家了解我对Nord梯子的喜爱，我决定将这篇评论分成几个部分。</span>
 
 <span>为了使这篇评论更加简洁，我还会提到每个类别的Nord评分。</span>
-[官网直达](http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=github&aff_sub=gitwuxian36&aff_sub2=tizi)
+[官网直达](http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=github&aff_sub=2gitwuxian36&aff_sub2=tizi)
 
 ## <span>Nord的尖端隐私功能</span>
 
@@ -296,7 +296,7 @@
 <span>话说回来：</span>
 
 <span>如果您仍然怀疑，您可以随时选择像比特币这样的匿名付款选项。这样，即使提供商确实保留了任何类型的数据，它仍然不足以跟踪您或您的在线活动。</span>
-[官网直达](http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=github&aff_sub=gitwuxian36&aff_sub2=tizi)
+[官网直达](http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=github&aff_sub=2gitwuxian36&aff_sub2=tizi)
 
 ### <span>Nord梯子 Netflix和BBC iPlayer完美无瑕</span>
 
@@ -371,7 +371,7 @@
 <span>尽管在某些服务器上看到上传速度相当不错，但下载速度仍然稳固。</span>
 
 <span>事实上，如果您只是考虑下载，Nord是我迄今为止测试过的</span><span>最快的梯子之一</span><span>，几乎可以让Express梯子获得一笔收益。</span>
-[官网直达](http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=github&aff_sub=gitwuxian36&aff_sub2=tizi)
+[官网直达](http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=github&aff_sub=2gitwuxian36&aff_sub2=tizi)
 
 ### <span>专家客户支持</span>
 
@@ -429,7 +429,7 @@
 
 <span>好吧，看看下面的计划吧。</span>
 
-[![Nord梯子详细测评：性价比极高](https://www.5vpns.com/wp-content/uploads/2018/12/nord-order-1024x518.png)](http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=github&aff_sub=gitwuxian36&aff_sub2=tizi)
+[![Nord梯子详细测评：性价比极高](https://www.5vpns.com/wp-content/uploads/2018/12/nord-order-1024x518.png)](http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=github&aff_sub=2gitwuxian36&aff_sub2=tizi)
 
 <span>现在已获批准，您将在互联网上找到更便宜的选项。但是，请放心，他们都不能以如此节俭的价格提供如此多的功能和服务器。</span>
 
@@ -465,7 +465,7 @@
 *   <span>理想</span>
 *   **支付宝**
 
-[官网直达](http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=github&aff_sub=gitwuxian36&aff_sub2=tizi)
+[官网直达](http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=github&aff_sub=2gitwuxian36&aff_sub2=tizi)
 
 ### <span>超级直观且易于使用</span>
 
